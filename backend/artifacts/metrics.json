@@ -1,0 +1,19 @@
+{
+  "noise_level": 1.0,
+  "task_duration": {
+    "mae_minutes": 6.61,
+    "rmse_minutes": 8.4,
+    "test_samples": 131
+  },
+  "breakdown": {
+    "precision": 0.984,
+    "recall": 0.984,
+    "hours_to_failure_mae": 25.94,
+    "test_samples": 600
+  },
+  "anomaly_detection": {
+    "precision": 0.765,
+    "recall": 1.0,
+    "positive_samples": 627
+  }
+}
